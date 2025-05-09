@@ -1,0 +1,5 @@
+File content is lost in the browser after switching branches:
+
+1. create a new file and commit it to one branch
+2. switch to another branch (it doesn’t have that file)
+3. the tab for file remains open, but it reports an error that the content does not exist
